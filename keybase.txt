@@ -1,0 +1,73 @@
+==================================================================
+https://keybase.io/tuncd
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://mitmlabs.com
+  * I am tuncd (https://keybase.io/tuncd) on keybase.
+  * I have a public key with fingerprint 1ADF F00E E525 A845 6D50  372B 0026 6C63 1EA5 BDC7
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "1adff00ee525a8456d50372b00266c631ea5bdc7",
+            "host": "keybase.io",
+            "key_id": "00266c631ea5bdc7",
+            "kid": "0101b5fce628062cfad0f1ccb98a7e87dbe0020f6f4ee7b6d61f8ce4dfc4a95c07ef0a",
+            "uid": "6765f97c63fa9de9669f9c4a2a37d819",
+            "username": "tuncd"
+        },
+        "revoke": {
+            "sig_ids": [
+                "57325284730a6beffbbd4f12d131b3a85c5af5f98dfd84794d2803add8cc04e90f"
+            ]
+        },
+        "service": {
+            "hostname": "mitmlabs.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1429176839,
+    "expire_in": 157680000,
+    "prev": "963f81bcdf6f99d52f13cd2fac88936306e9492522d2433983efab473166639c",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.8
+Comment: https://keybase.io/crypto
+
+yMJeAnicbZJLTBVXGMfvpUUCSUVJpLVBTI6xqCFw5nVmzl3owgrVJnal9Qk9T+54
+vTOXmbmXIiEKsTEkTWhjou2mGt8b07jyiYLlFWRhwGBqGlsXEBL6iIldaEB6htJd
+ZzOZ7/y/3//7/nMG33snUZZ8/0S/aa8oLCYfDXyfT+yp7y7pANTn7SDVATJi6SVd
+r0UEucD1IpACGuFSQiiEpVvEMS3ELWjYOoVQR4ghQxPEopzZoBak/TDuUBhKQlHn
++qqmPppdrqr/o8/8e6BBjVqSCaQ7EOlMEg6lxhjFDrGFY3MqVC+USJpC2BRxpEmH
+CZNLZhJsMWgLCYnC5ZdwyEaWxLZykgRzgRHCEiulTgybOxqOhaEIPJIVSh3lPcZB
+Zy0IRMHPiHj90G1RE4cgdRBYtqFbumPaBiSICikp5abUdK4ZGjWIYzGLSOXmcMmV
+CptcrWAQzh3GoCkwlOCwYiu7gsuW4HFEy9ZZN8oeJTSsY35WDZUL/Mhn/lF1ko6i
+XCoeKmrPxco2QZuXGc3U9bj6P6qhIILQ9T2Q0pSSRW4M1UwdazZyDFwLxJc5NxDN
+bqywVA2qJ7YRBYXEKh5Ho4yrWDHmli41g3FdEuY42EAGRAKbWC2vc900DOwYQhKq
+gtAQQgZmIN6q1fNBylJjkhaFVLl5JMoHAnQ+7D/0biJZllhRXBTfsERZ6ar/7l3d
+y5L5cvSwYYf3YnXPH38Otw4NND1oKb2a3rI49uvjzopPfr79xdS9rspdA2IhMeZU
+9p3vPl1+7tSz0YnnV/ZdH9nandpRs+bm3zV1aW/zpa762pOkpKlxITpbtTD/pHhk
+9MfvZlf+vvOn8mtFnx040rbrr0M7x4tGhp8fpvt/QNvs9osZd+7p9Z6BM1fXrm3/
+4O369GT1naaKu8mZmvER9Kpv69TrrxcHJzf2XBvquxz+Vt/BNuLGxfsbEq9Obrh0
+ucm+1dj9cUXVNnN69JdjM8kL3+4dfrZ7ouaj3nU3+ufD+70frgm+Gnsz++np7dXn
+N0036CLzTW91sTi+8vXNz881FPDL7XAum6+q+geKlkF3
+=aRX3
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tuncd
+
+==================================================================

@@ -1,0 +1,78 @@
+body, html {
+  height: 100%;
+}
+
+body {
+  background: #eee;
+  font-family: 'futura-pt', sans-serif;
+  font-size: 24px;
+  line-height: 1.5;
+}
+
+.container {
+  position: relative;
+  height: 100%;
+}
+
+.logo {
+  margin-top: 2em;
+  margin-bottom: 2em;
+  width: 150px;
+}
+
+.intro {
+  margin-bottom: 1em;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 1;
+}
+
+.intro p:first-child {
+  font-size: 72px;
+}
+
+.links {
+  margin-top: 1em;
+}
+
+.links a {
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 12px;
+}
+
+.links a:last-child {
+  margin-top: -1px;
+}
+
+.links a:hover {
+  text-decoration: none;
+}
+
+.links a i {
+  font-size: 48px;
+  color: #000;
+}
+
+.figure {
+  height: 480px;
+  width: 450px;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+.pattern {
+  position: absolute;
+  height: 100%;
+  bottom: 20px;
+  opacity: 0.05;
+  width: 100%;
+  background: url(/img/pattern.png) repeat-x 0% 5%;
+}
+
+@media (max-width: 767px) {
+  .logo, .figure {
+    display: none;
+  }
+}
